@@ -12,7 +12,7 @@ A collection of **real-world analytics dashboards** built using Tableau to stren
 ```
 
 🔗 **View all dashboards on Tableau Public:**
-[https://public.tableau.com/app/profile/tarun.kumar.kanakala1878/vizzes](https://public.tableau.com/app/profile/tarun.kumar.kanakala1878/vizzes)
+[https://public.tableau.com/app/profile/Auro/vizzes](https://public.tableau.com/app/profile/Auro/vizzes)
 
 ---
 
