@@ -1,0 +1,8 @@
+Objective:
+UT Discount Mart is a small supermarket owned by Mr. Tarun. The objective of this project is to develop an interactive dashboard that enables him to monitor the store’s performance for the current year, focusing on key business metrics such as Sales, Profit, and Quantity Sold.
+
+In addition, the dashboard will provide insights into the performance of different product categories and geographical regions, helping identify high- and low-performing areas of the business.
+
+Mr. Tarun also assumes that most customers purchase two or more products per order, and he would like this assumption to be validated using the available data.
+
+For analysis purposes, Profit is calculated as 30% of the selling price.
