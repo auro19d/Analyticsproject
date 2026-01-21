@@ -11,10 +11,6 @@ A collection of **real-world analytics dashboards** built using Tableau to stren
 3. UT Mart Sales Analytics
 ```
 
-🔗 **View all dashboards on Tableau Public:**
-[https://public.tableau.com/app/profile/Auro/vizzes](https://public.tableau.com/app/profile/Auro/vizzes)
-
----
 
 ## 📸 Project Screenshots
 
